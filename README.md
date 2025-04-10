@@ -27,7 +27,7 @@
 
    
 bash
-   git clone <ссылка на репозиторий>
+   git clone https://github.com/matos85/APITableReserveService
    cd restaurant_reservation
    
 
@@ -36,7 +36,7 @@ bash
 bash
 docker-compose up --build
 
-3. После успешного запуска API будет доступен по адресу: `http://localhost:8000`.
+3. После успешного запуска API будет доступен по адресу: `http://host:8000`.
 
 ## Использование API
 
